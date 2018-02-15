@@ -5,3 +5,20 @@ form#contact-form button {
   width: 100%;
   margin: 1em auto;
 }
+
+a.social-link img {
+  background-color: white;
+  width: 2em;
+  height: 2em;
+  margin: 0.5em;
+}
+a.social-link {
+}
+
+#my-social-links {
+  text-align: right;
+}
+
+#footer-widgets {
+  padding: 0;
+}
