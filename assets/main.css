@@ -1,3 +1,7 @@
 #sidr .sidr-inner:last-child {
   display: none;
 }
+form#contact-form button {
+  width: 100%;
+  margin: 1em auto;
+}
