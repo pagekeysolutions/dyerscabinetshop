@@ -22,3 +22,11 @@ a.social-link {
 #footer-widgets {
   padding: 0;
 }
+
+span#backlink {
+  font-size: 80%;
+  width: 100%;
+  text-align: center;
+  display: block;
+  margin-top:0.5em;
+}
